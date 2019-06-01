@@ -1,13 +1,15 @@
 ---
 title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+date: "2019-06-01T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+I love blogging so much already. Actually, I've been blogging in one
+form or another since 1998. Wow, over 20 years!
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+Did you know that blog is just a shortened version of weblog? For me, blogging started out as a way
+to keep track of interesting articles on programming and computer technology that I found along
+the way. It very quickly turned into a huge phenomena!
 
-Yeah, I didn't either.
+([More about Blogs on Wikipedia](https://en.wikipedia.org/wiki/Blog))
+
+Have you started your own blog?
