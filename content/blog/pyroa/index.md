@@ -1,6 +1,6 @@
 ---
 title: Python Users Group Roanoke
-date: "2019-06-01T14:10:37.121Z"
+date: "2019-06-01T18:10:37.121Z"
 ---
 
 ![Logo](./python_users_group_logo.jpg)
