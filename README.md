@@ -8,7 +8,7 @@
   Yet Another Tech Blog
 </h1>
 
-Built from the [Gatsby Starter Blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/). Now my first steps with blogging using a static JAMStack. :metal: Rock on!
+Based on the [Gatsby Starter Blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/), this is my first step with blogging using a static JAMStack. :metal: Rock on!
 
 Site is now hosted on [Surge](https://surge.sh/) with a custom domain name.
 
