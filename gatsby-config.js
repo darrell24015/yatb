@@ -3,7 +3,7 @@ module.exports = {
     title: `YATB`,
     author: `darrell24015`,
     description: `Yet Another Tech Blog`,
-    siteUrl: `http://yatb.surge.sh/`,
+    siteUrl: `http://yatb.devcali.co/`,
     social: {
       twitter: `Darrell_Va`,
     },
@@ -49,9 +49,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
+      options: "UA-143421457-1" 
     },
     `gatsby-plugin-feed`,
     {
@@ -63,7 +61,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/darrell24015_icon.png`,
       },
     },
     `gatsby-plugin-offline`,
