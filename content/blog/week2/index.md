@@ -7,7 +7,7 @@ The Raspberry Pi 4 \#DesktopPiChallenge is going very well! For daily use, web b
 
 Monitoring the [CPU temperatures](https://github.com/darrell24015/tempmon) has been an interesting experiment. For most activities, the temperatures stay between 65 and 70 degrees C. I did finally see the "high temperature" warning on the screen while compiling in MakeCode Arcade with the temps peaking at 79.4 C. That was while I was trying out the cool new [Adafruit PyBadge](https://www.adafruit.com/product/4200) - something I'll post about here later.
 
-Orginally, I was using the Mac keyboard with the RPi4. But I went ahead and purchased the official Raspberry Pi keyboard/hub and mouse. So now my rig is fully tricked out!
+Originally, I was using the Mac keyboard with the RPi4. But I went ahead and purchased the official Raspberry Pi keyboard/hub and mouse. So now my rig is fully tricked out!
 
 ![Raspberry Pi 4 Keyboard and Mouse](./RPi4_keyboard_mouse.png)
 
